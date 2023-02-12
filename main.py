@@ -71,7 +71,7 @@ async def my_event_handler(m):
 
 `{bin_json['bank']['name']}`
 
-𝘾𝙊𝙐𝙉𝙏𝙍𝙔 `{bin_json['country']['name']} - {bin_json['country']['flag']` 
+𝘾𝙊𝙐𝙉𝙏𝙍𝙔 {bin_json['country']['name']} - {bin_json['country']['flag']
 
 𝙀𝙓𝙏𝙍𝘼:  `{extra}xxxx|{mes}|{ano}|rnd`
 
